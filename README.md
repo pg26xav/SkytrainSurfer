@@ -29,3 +29,14 @@ how long you have survived!
 - Your name will be highlighted yellow.
 - Your score will be shown with other people who have played the game.
 - If you have played the game before and did not beat your high score, your high score will be kept up on the leaderboard.
+
+# Contributers
+- pg26alex
+- pg26alisa
+- pg26max
+- pg26preetham
+- pg26spencer
+- pg26levi
+- pg26henry
+- pg26robert
+- pg26sebastien
