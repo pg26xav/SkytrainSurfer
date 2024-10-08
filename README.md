@@ -1,5 +1,6 @@
 # SkytrainSurfer
-Made for mobile. This is a class project that I took apart in where I did the UI programming and the Unity Game Services Leaderboards.
+- Made for mobile.
+- This is a class project that I took apart in where I did the UI programming and Unity Game Services Leaderboards.
 ![ScreenRecording2024-10-07at6 35 42PM-ezgif com-optimize](https://github.com/user-attachments/assets/c0912b75-0b5d-4145-a60d-0d5a881c7670)
 
 # How to use
